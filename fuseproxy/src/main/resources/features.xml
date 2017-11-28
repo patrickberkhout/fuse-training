@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="fuse-proxy-features">
+	<feature name="fuse-proxy-feature">
+		<bundle>mvn:com.github.patrickberkhout.fusetraining/fuseproxy/1.0.0-SNAPSHOT</bundle>
+	</feature>
+</features>

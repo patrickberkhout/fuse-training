@@ -1,0 +1,8 @@
+<urlrewrite use-query-string="true">
+
+  <rule>
+    <from>^/(.*)$</from>
+    <to>/odata4/$1</to>
+  </rule>
+
+</urlrewrite>
